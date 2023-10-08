@@ -95,7 +95,7 @@ For detailed installation and setup instructions, please refer to our comprehens
 
 ## Video
 
-<a href="https://youtu.be/rjnMCxGT0Rc?si=YXl6y07iDTueHQ9q" target="_blank">
+<a href="https://youtu.be/9nSz5qKUv_s" target="_blank">
   <img src="https://img.youtube.com/vi/8EJbAq01O4U/maxresdefault.jpg" width="500" alt="Youtube Video">
 </a>
 
