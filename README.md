@@ -164,8 +164,7 @@ The journey of creating MetaQuest has been a profound learning experience. We ga
 Meet the talented individuals behind MetaQuest:
 
 Himanshu Sharma | LCS2022023 | [GitHub](https://github.com/Him7n)
-Roopesh S | LCB2022032 | [GitHub](https://github.com/TechWizard9999)
-Aviral Katiyaar | [GitHub](https://github.com/TechWizard9999)
+
 
 These dedicated team members have worked tirelessly to bring the MetaQuest vision to life. Say hello to them on GitHub! 🌟
 
